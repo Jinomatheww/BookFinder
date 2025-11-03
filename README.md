@@ -35,8 +35,6 @@ Admins can manage the book database, update listings, and ensure the system stay
 | Layer | Technology Used |
 |-------|------------------|
 | **Frontend** | HTML, CSS, Bootstrap, JavaScript |
-| **Backend** | Django (Python Framework) |
-| **Database** | MySQL |
 | **Server** | Localhost / XAMPP / Django runserver |
 | **IDE** | VS Code / PyCharm |
 
