@@ -2,7 +2,7 @@
 # 📚 BookFinder – Smart Book Search and Recommendation System
 
 **BookFinder** is a web-based application designed to help users easily search, explore, and discover books by title, author, or genre.  
-Built with **Django**, **Python**, **MySQL**, and **Bootstrap**, the system offers a simple yet efficient interface for book enthusiasts, students, and library users to find relevant books quickly.
+
 
 ---
 
